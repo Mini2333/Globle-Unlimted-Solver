@@ -1,6 +1,6 @@
 # Globle-Unlimted-Solver
 
-*You must have rust installed and build it for your platform there is no precompiled binary avaiable idk there might be when I tested it but its for linux so yea its prob best to build it yourself.
+*You must have rust installed and build it for your platform there is no precompiled binary available idk there might be when I tested it but its for linux so yea its prob best to build it yourself.
 
 cd solver
 

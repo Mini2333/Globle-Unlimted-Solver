@@ -14,3 +14,5 @@ Feel free to look through the code and if you find any issues open a pull reques
 Feel free to contribute.
 
 If you like this project please consider staring it.
+
+All code is in rust.
